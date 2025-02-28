@@ -1,7 +1,3 @@
-Aqui está o README combinado com as informações que você forneceu, de forma organizada e clara:
-
----
-
 # README para Automação de Testes e Configuração do Projeto
 
 Este repositório contém uma suíte de testes automatizados usando Selenium e pytest para realizar testes de login, cadastro e recuperação de senha em uma aplicação Django local. A aplicação também é fornecida como parte do projeto para rodar localmente e realizar os testes de QA.
